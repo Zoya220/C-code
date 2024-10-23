@@ -1,0 +1,5 @@
+Enter Physics Marks:
+Enter Chemistry Marks:
+Enter Maths Marks:
+PCM Average = 59
+You are Eligible for Admission

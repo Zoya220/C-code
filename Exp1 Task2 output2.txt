@@ -1,0 +1,5 @@
+Enter Physics Marks:
+Enter Chemistry Marks:
+Enter Maths Marks:
+PCM Average = 44
+You are NOT Eligible for Admission

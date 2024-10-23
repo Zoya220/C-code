@@ -1,0 +1,6 @@
+*** Even Odd Finder ***
+Enter Number: 13
+13 is Odd
+*** Even Odd Finder ***
+Enter Number: 12
+12 is Even
